@@ -1,0 +1,1 @@
+math is an object which  has lot of math functions
